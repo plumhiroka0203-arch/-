@@ -1,19 +1,17 @@
 # ヒーリング講座・13秒オープニング動画
 
-[完成動画をダウンロード（ZIP・約32MB）](https://github.com/plumhiroka0203-arch/-/raw/refs/heads/main/healing_video_13s.zip)
+**[改訂版MP4をダウンロード（音声なし）](https://github.com/plumhiroka0203-arch/-/raw/refs/heads/main/healing_intro_v2_silent.mp4)**
 
-ZIPを展開すると、次のファイルが入っています。
+[改訂版ZIPをダウンロード](https://github.com/plumhiroka0203-arch/-/raw/refs/heads/main/healing_video_v2_silent.zip)
 
-- `healing_intro_13s.mp4`：音声付き。短い風音から穏やかなアンビエント音へつながります。
-- `healing_intro_13s_silent.mp4`：編集用の無音版。
-- `healing_intro_cover.jpg`：冒頭の静止画。
+改訂版はカメラを固定し、ズームをなくしています。女性の顔や手を保ちながら髪が強い風になびき、龍の首と頭が女性へゆっくり近づきます。音声はありません。
 
-動画は13.000秒、1080×1920、9:16、30fpsです。文字・字幕・ロゴはありません。
+- 長さ：13.000秒
+- 画面：1080×1920、9:16
+- フレームレート：30fps
+- 文字・字幕・ロゴなし
+- 提供された透過PNGを使用したコードによるアニメーション
 
-元画像の顔と姿勢を保ったレイヤーアニメーションで、カメラの寄り引き、光、粒子、髪やたてがみの微細な揺れをコードで合成しています。
+ZIPには高画質MP4と、スマートフォン向け軽量MP4が入っています。
 
-ZIPのSHA-256：
-
-```text
-fee05c1b91e1f4567c4689eba7d452259bf3231469e57738cb1aa47a40ceb5ff
-```
+[初版ZIP](https://github.com/plumhiroka0203-arch/-/raw/refs/heads/main/healing_video_13s.zip)
